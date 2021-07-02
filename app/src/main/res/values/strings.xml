@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Covid_test3</string>
+
+    <string name="닉네임">닉네임</string>
+    <string name="todo">todo</string>
+    <string name="모니터링_타이머">모니터링 타이머</string>
+    <string name="_00_00">00:00</string>
+    <string name="start">start</string>
+    <string name="reset">reset</string>
+    <string name="_15">15분</string>
+    <string name="_20">20분</string>
+    <string name="_30">30분</string>
+    <string name="pause">pause</string>
+
+    <string name="강원도강릉시">https://www.gn.go.kr/</string>
+    <string name="강원도고성군">https://www.gwgs.go.kr/</string>
+    <string name="강원도동해시">https://www.dh.go.kr/corona19/covid_intro.htm</string>
+    <string name="강원도삼척시">https://www.samcheok.go.kr/02179/02696.web</string>
+    <string name="강원도속초시">http://www.sokcho.go.kr/intro.html</string>
+    <string name="강원도양구군">http://ncov.yanggu.go.kr/</string>
+    <string name="강원도양양군">https://www.yangyang.go.kr/covid/corona-19.html</string>
+    <string name="강원도영월군">https://www.yw.go.kr/corona_inte/intro.html</string>
+    <string name="강원도원주시">http://covid19.wonju.go.kr/intro_new.jsp</string>
+    <string name="강원도인제군">http://www.inje.go.kr/corona-19.html</string>
+    <string name="강원도정선군">http://www.jeongseon.go.kr/intro.html</string>
+    <string name="강원도철원군">https://www.cwg.go.kr/covid19.jsp</string>
+    <string name="강원도춘천시">http://covid.chuncheon.go.kr/covid19/index.do</string>
+    <string name="강원도태백시">http://www.taebaek.go.kr/intro.jsp</string>
+    <string name="강원도평창군">https://www.pc.go.kr/corona-19.html</string>
+    <string name="강원도홍천군">https://www.hongcheon.go.kr/corona_intro.jsp</string>
+    <string name="강원도화천군">http://www.ihc.go.kr/corona.jsp</string>
+    <string name="강원도횡성군">https://www.hsg.go.kr/00001842/00002873.web</string>
+
+
+    <string name="광주광역시동구">http://bogun.donggu.kr/</string>
+    <string name="광주광역시서구">http://seogu.gwangju.kr/health/</string>
+    <string name="광주광역시남구">http://www.namgu.gwangju.kr/index.es?sid=a8</string>
+    <string name="광주광역시북구">https://bukgu.gwangju.kr/health/</string>
+    <string name="광주광역시광산구">http://health.gwangsan.go.kr/</string>
+    <string name="작성자">작성자</string>
+    <string name="제목">제목</string>
+    <string name="내용">내용</string>
+    <string name="확인">확인</string>
+    <string name="hello_blank_fragment" />
+    <string name="mentionarticle" />
+
+    <string name="mention1">1. 접종후 30분간 접종기관에서 이상반응이 있는지 관찰 후 귀가 하세요</string>
+    <string name="mention2">2. 접종 당일은 몸에 무리가 가지 않도록 쉬고, 접종후 2~3인 간은 몸상태를 주의 깊게 살피세요.(샤워,운동 자제)</string>
+    <string name="mention3">3. 예방접종 후 접종 부위의 통증,빨갛게 부어오름,부종이나 근육통,발열,메스꺼움 등 경미한 반응은 일시적으로 나타날 수 있으나 대부분 1~2일내 호전됩니다.</string>
+    <string name="mention4">4. 그러나 접종후 쇼크,고열이나 호흡곤란,두드러기,심한 현기증이 나타나면 즉시 의사의 진료를 받으세요.</string>
+    <string name="mention5">5. 어린이는 계속 보채고,잘 먹지 않거나 평소와 다른 모습을 보일 경우 의사의 진료를 받으세요.</string>
+
+</resources>
